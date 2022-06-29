@@ -1,15 +1,23 @@
 body {
   background-color: black;
 }
+img {
+  width: 1830px;
+  height: 200px;
+}
 .header-1 {
+  text-align: center;
   color: white;
 }
 .header-2 {
+  text-align: center;
   color: white;
 }
 .welcome {
+  text-align: center;
   color: white;
 }
 .para-1 {
+  text-align: center;
   color: white;
 }
