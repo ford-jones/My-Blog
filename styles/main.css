@@ -18,13 +18,13 @@ body {
 }
 .enclose {
   width: 1600px;
-    height: 600px;
-    background-color: black;
-    margin: 150px 0px 0px 0px;
-    padding: 1px 1px 1px 1px;
-    border: 2px solid black;
-    box-shadow: 0 0 1000px black;
-    border-radius: 300px;
+  height: 625px;
+  background-color: black;
+  margin: 150px 0px 0px 0px;
+  padding: 1px 1px 1px 1px;
+  border: 2px solid black;
+  box-shadow: 0 0 1000px black;
+  border-radius: 300px;
 }
 .header-1 {
   text-align: center;
@@ -58,11 +58,11 @@ body {
 .spacing-1 {
   margin: 50px, 50px, 50px, 50px;
 }
-.box-1 {
+.box-1-b1 {
   width: 25%;
   height: 10px;
   background-color: black;
-  margin: -200px 0px 20px 20px;
+  margin: -100px 0px 20px 20px;
   padding: 10px 15px 20px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -70,19 +70,7 @@ body {
   text-align: center;
   font-family: morpheus;
 }
-.box-2 {
-  width: 25%;
-  height: 10px;
-  background-color: black;
-  margin: 20px 20px 20px 20px;
-  padding: 10px 15px 20px 15px;
-  border: 2px solid green;
-  border-radius: 20px;
-  box-shadow: 0 0 10px white;
-  text-align: center;
-  font-family: morpheus;
-}
-.box-3 {
+.box-3-b1 {
   width: 25%;
   height: 10px;
   background-color: black;
@@ -94,7 +82,7 @@ body {
   text-align: center;
   font-family: morpheus;
 }
-.box-4 {
+.box-4-b1 {
   width: 25%;
   height: 10px;
   background-color: black;
@@ -106,7 +94,7 @@ body {
   text-align: center;
   font-family: morpheus;
 }
- .box-5 {
+ .box-5-b1 {
   width: 25%;
   height: 10px;
   background-color: black;
@@ -118,7 +106,187 @@ body {
   text-align: center;
   font-family: morpheus;
 }
- .active {
+ .active-b1 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid rgb(121, 121, 219);
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(158, 158, 248);
+  text-align: center;
+  font-family: morpheus;
+}
+.box-1-b2 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: -500px 0px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-2-b2 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-4-b2 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+ .box-5-b2 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+ .active-b2 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid rgb(121, 121, 219);
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(158, 158, 248);
+  text-align: center;
+  font-family: morpheus;
+}
+.box-1-b3 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: -10px 0px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-2-b3 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-3-b3 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+ .box-5-b3 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+ .active-b3 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid rgb(121, 121, 219);
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(158, 158, 248);
+  text-align: center;
+  font-family: morpheus;
+}
+.box-1-b4 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: -10px 0px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-2-b4 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-3-b4 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-4-b4 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+ .active-b4 {
   width: 25%;
   height: 10px;
   background-color: black;
