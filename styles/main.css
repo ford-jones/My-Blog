@@ -1,15 +1,31 @@
 body {
-  background-color: black;
-}
-.matrix {
-  width: 1830px;
-  height: 200px;
-  box-shadow: 0 0 10px 10px black inset; 
+  background-image: url("https://northernkreations.com/wp-content/uploads/2022/01/matrix-blue-high-res1.gif");
+  background-size: cover;
 }
 @font-face {
   src: url(fonts/morpheus/MORPHEUS.TTF);
   font-family: morpheus; 
 } 
+.welcome-enclose {
+  width: 1300px;
+    height: 600px;
+    background-color: black;
+    margin: 150px 10px 150px 220px;
+    padding: 1px 1px 1px 1px;
+    border: 2px solid black;
+    box-shadow: 0 0 1000px black;
+    border-radius: 300px;
+}
+.enclose {
+  width: 1600px;
+    height: 600px;
+    background-color: black;
+    margin: 150px 0px 0px 0px;
+    padding: 1px 1px 1px 1px;
+    border: 2px solid black;
+    box-shadow: 0 0 1000px black;
+    border-radius: 300px;
+}
 .header-1 {
   text-align: center;
   color: white;
@@ -35,23 +51,24 @@ body {
 }
 .northstar {
   margin: 0px;
-  padding: 0px 0px 0px 558px;
-  border: 0px;
+    padding: 0px 0px 0px 460px;
+    border: 0px;
+    height: 200px;
 }
 .spacing-1 {
   margin: 50px, 50px, 50px, 50px;
 }
-  .box-1 {
-    width: 25%;
-    height: 10px;
-    background-color: black;
-    margin: 20px 20px 20px 20px;
-    padding: 10px 15px 20px 15px;
-    border: 2px solid green;
-    border-radius: 20px;
-    box-shadow: 0 0 10px white;
-    text-align: center;
-    font-family: morpheus;
+.box-1 {
+  width: 25%;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
 }
 .box-2 {
   width: 25%;
@@ -77,13 +94,13 @@ body {
   text-align: center;
   font-family: morpheus;
 }
-.active {
+ .active {
   width: 25%;
   height: 10px;
   background-color: black;
   margin: 20px 20px 20px 20px;
   padding: 10px 15px 20px 15px;
-  border: 2px solid green;
+  border: 2px solid rgb(121, 121, 219);
   border-radius: 20px;
   box-shadow: 0 0 10px rgb(158, 158, 248);
   text-align: center;
@@ -101,7 +118,7 @@ a:-webkit-any-link {
   text-align: center;
   color: white;
   font-family: morpheus;
-  padding: 0px;
+  padding: 20px 0px 0px 0px;
   display: block;
   font-size: 2em;
   margin-block-start: 0px;
@@ -111,7 +128,8 @@ a:-webkit-any-link {
   font-weight: bold;
 }
 .happysad {
-  margin: 10px 10px 10px 10px;
-  padding: 110px 0px 0px 1000px;
+  margin: 0px 0px 0px 800px;
+  padding: 0px 0px 0px 0px;
   border: 0px;
+  border-radius: 50%;
 }
