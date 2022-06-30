@@ -167,9 +167,19 @@ a:-webkit-any-link {
   height: 0px;
   width: 600px;
 }
-.reflections-text {
+.question {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 10px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
+.reflections-text-1 {
   color: white;
-  text-align:center;
+  text-align: left;
+  margin: 14px 0px 0px 580px;
+  padding: 1px 0px 0px 0px;
+  height: 0px;
+  width: 600px;
 }
 .vision-text {
   color: white;
