@@ -389,6 +389,24 @@ a:-webkit-any-link {
   margin: 50px 10px 10px 580px;
   padding: 0px 150px 0px 0px;
 }
+.question-10 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 10px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
+.question-11 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 60px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
+.question-12 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 70px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
 .awnser-1 {
   color: white;
   text-align: left;
@@ -454,6 +472,30 @@ a:-webkit-any-link {
   width: 600px;
 }
 .awnser-9 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
+.awnser-10 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
+.awnser-11 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
+.awnser-12 {
   color: white;
   text-align: left;
   margin: 10px 0px 0px 580px;
