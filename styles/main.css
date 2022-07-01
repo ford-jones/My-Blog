@@ -959,6 +959,13 @@ a:-webkit-any-link {
   border: 3px solid rgb(121, 121, 219);
   box-shadow: 0 0 10px white;
 }
+.dream {
+  margin: 0px 0px -600px 1200px;
+  padding: 0px 0px 0px 0px;
+  border: 2px solid black;
+  box-shadow: 0 0 10px black inset;
+  height: 300px;
+}
 .contact-text {
   color: white;
   text-align: center;
