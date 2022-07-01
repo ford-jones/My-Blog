@@ -635,6 +635,13 @@ a:-webkit-any-link {
   height: 0px;
   width: 600px;
 }
+.hometime {
+  margin: 0px 0px -600px 1200px;
+    padding: 0px 0px 0px 0px;
+    border: 2px solid black;
+    box-shadow: 0 0 10px black inset;
+    height: 300px;
+}
 .question-1 {
   color: rgb(162, 162, 255);
   text-align: left;
