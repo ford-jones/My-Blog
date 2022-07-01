@@ -407,6 +407,30 @@ a:-webkit-any-link {
   margin: 70px 10px 10px 580px;
   padding: 0px 150px 0px 0px;
 }
+.question-13 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 10px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
+.question-14 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 90px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
+.question-15 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 50px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
+.question-16 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 50px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
 .awnser-1 {
   color: white;
   text-align: left;
@@ -503,6 +527,38 @@ a:-webkit-any-link {
   height: 0px;
   width: 600px;
 }
+.awnser-13 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
+.awnser-14 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
+.awnser-15 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
+.awnser-16 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
 .vision-text {
   color: white;
   text-align: center;
@@ -559,6 +615,20 @@ a:-webkit-any-link {
   margin: 120px 0px 0px 1380px;
   /* font-family: morpheus; */
 }
+.next-page-p4 {
+  background-color: black;
+  height: 25px;
+  width: 25px;
+  border: 2px solid green;
+  padding: 0px 1px 10px 10px;
+  margin: 0px 0px 0px 0px;
+  box-shadow: 0 0 10px white;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 30px;
+  margin: 120px 0px 0px 1380px;
+  /* font-family: morpheus; */
+}
 .previous-page-p2 {
   background-color: black;
   height: 25px;
@@ -586,4 +656,18 @@ a:-webkit-any-link {
     font-size: 30px;
     margin: -40px 0px 0px 1320px;
     /* font-family: morpheus; */
+}
+.previous-page-p4 {
+  background-color: black;
+  height: 25px;
+  width: 25px;
+  border: 2px solid green;
+  padding: 0px 1px 10px 10px;
+  margin: 0px 0px 0px 0px;
+  box-shadow: 0 0 10px white;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 30px;
+  margin: -40px 0px 0px 1320px;
+  /* font-family: morpheus; */
 }
