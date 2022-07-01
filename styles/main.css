@@ -482,7 +482,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: -35px 0px 20px 20px;
+  margin: -313px 0px 20px 20px;
   padding: 10px 15px 20px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -953,6 +953,11 @@ a:-webkit-any-link {
 .vision-text {
   color: white;
   text-align: center;
+  width: 500px;
+  margin: 16px 16px 16px 550px;
+  padding: 1px 1px 1px 1px;
+  border: 3px solid rgb(121, 121, 219);
+  box-shadow: 0 0 10px white;
 }
 .contact-text {
   color: white;
