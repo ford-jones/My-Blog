@@ -1,20 +1,98 @@
 body {
   background-image: url("https://northernkreations.com/wp-content/uploads/2022/01/matrix-blue-high-res1.gif");
   background-size: cover;
+  max-width: 100%;
 }
 @font-face {
   src: url(fonts/morpheus/MORPHEUS.TTF) format('truetype');
   font-family: morpheus; 
 } 
+@media screen and (max-width: 320px) {
+body {
+  max-width: 100%;
+  position: relative;
+  } 
+.welcome-enclose {
+  max-width: 320px;
+  position: relative;
+  margin: 0px 0px 0px 0px;
+}
+.matrix {
+  max-width: 100%
+}
+.northstar {
+ max-width: 100%;
+ position: relative;
+ left: 100%;
+ padding: 0px 0px 0px 0px;
+}
+.enclose {
+  max-width: 100%;
+  position: relative;
+  margin: 0px 0px 0px 0px;
+}
+}
+@media screen and (max-width: 720px) {
+body {
+  max-width: 100%;
+  position: relative;
+}
+.welcome-enclose {
+  max-width: 100%;
+  position: relative;
+  margin: 0px 0px 0px 0px;
+}
+.matrix {
+  max-width: 100%
+}
+.northstar {
+  max-width: 100%;
+  position: relative;
+  left: 100%;
+  padding: 0px 0px 0px 0px;
+} 
+.enclose {
+  max-width: 100%;
+  position: relative;
+  margin: 0px 0px 0px 0px;
+}
+}
+@media screen and (max-width: 1200px) {
+body {
+  max-width: 100%;
+  position: relative;
+}
+.welcome-enclose {
+  max-width: 100%;
+  position: relative;
+  margin: 0px 0px 0px 0px;
+}
+.matrix {
+  max-width: 100%
+}
+.northstar {
+  max-width: 100%;
+  position: relative;
+  left: 100%;
+  padding: 0px 0px 0px 0px;
+}
+.enclose {
+  max-width: 100%;
+  position: relative;
+  margin: 0px 0px 0px 0px;
+} 
+}
 .welcome-enclose {
   width: 1300px;
-    height: 600px;
-    background-color: black;
-    margin: 150px 10px 150px 220px;
-    padding: 1px 1px 1px 1px;
-    border: 2px solid black;
-    box-shadow: 0 0 1000px black;
-    border-radius: 300px;
+  height: 600px;
+  background-color: black;
+  margin: 150px 10px 150px 220px;
+  padding: 1px 1px 1px 1px;
+  border: 2px solid black;
+  box-shadow: 0 0 1000px black;
+  border-radius: 300px;
+  max-width: 100%;
+  max-height: 100%;
 }
 .enclose {
   width: 1600px;
@@ -49,12 +127,12 @@ body {
 .button-1 {
   text-align:center;
 }
-.northstar {
+ .northstar {
   margin: 0px;
-    padding: 0px 0px 0px 460px;
+    padding: 0px 0px 0px 230px;
     border: 0px;
     height: 200px;
-}
+} 
 .spacing-1 {
   margin: 50px, 50px, 50px, 50px;
 }
@@ -587,6 +665,78 @@ body {
   font-family: morpheus;
 }
  .active-b4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid rgb(121, 121, 219);
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(158, 158, 248);
+  text-align: center;
+  font-family: morpheus;
+}
+.box-1-b5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: -35px 0px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-2-b5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-3-b5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-4-b5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-5-b5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.active-b5 {
   width: 400px;
   height: 10px;
   background-color: black;
