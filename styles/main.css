@@ -748,6 +748,15 @@ body {
   text-align: center;
   font-family: morpheus;
 }
+.padding-image {
+  margin: 0px 0px -650px 750px;
+}
+.margin-image {
+  margin: 0px 0px -650px 750px;
+}
+.border-image {
+  margin: 0px 0px -650px 750px;
+}
 .link {
   color: white;
   letter-spacing: 10px;
