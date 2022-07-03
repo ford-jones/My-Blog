@@ -184,6 +184,30 @@ body {
   text-align: center;
   font-family: morpheus;
 }
+.box-6-b1 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b1 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
  .active-b1 {
   width: 400px;
   height: 10px;
@@ -233,6 +257,30 @@ body {
   font-family: morpheus;
 }
  .box-5-b2 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-6-b2 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b2 {
   width: 400px;
   height: 10px;
   background-color: black;
@@ -304,6 +352,30 @@ body {
   text-align: center;
   font-family: morpheus;
 }
+.box-6-b2-p2 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 23px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b2-p2 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 23px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
 .active-b2-p2 {
   width: 400px;
   height: 10px;
@@ -353,6 +425,30 @@ body {
   font-family: morpheus;
 }
 .box-5-b2-p3 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 23px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-6-b2-p3 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 23px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b2-p3 {
   width: 400px;
   height: 10px;
   background-color: black;
@@ -424,6 +520,30 @@ body {
   text-align: center;
   font-family: morpheus;
 }
+.box-6-b2-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b2-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
 .active-b2-p4 {
   width: 400px;
   height: 10px;
@@ -473,6 +593,30 @@ body {
   font-family: morpheus;
 }
 .box-5-b2-p5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 23px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-6-b2-p5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 23px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b2-p5 {
   width: 400px;
   height: 10px;
   background-color: black;
@@ -544,6 +688,30 @@ body {
   text-align: center;
   font-family: morpheus;
 }
+.box-6-b2-p6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 23px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b2-p6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 23px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
 .active-b2-p6 {
   width: 400px;
   height: 10px;
@@ -593,6 +761,30 @@ body {
   font-family: morpheus;
 }
  .box-5-b3 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-6-b3 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b3 {
   width: 400px;
   height: 10px;
   background-color: black;
@@ -664,7 +856,31 @@ body {
   text-align: center;
   font-family: morpheus;
 }
- .active-b4 {
+.box-6-b4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.active-b4 {
   width: 400px;
   height: 10px;
   background-color: black;
@@ -736,7 +952,211 @@ body {
   text-align: center;
   font-family: morpheus;
 }
+.box-6-b5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
 .active-b5 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid rgb(121, 121, 219);
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(158, 158, 248);
+  text-align: center;
+  font-family: morpheus;
+}
+.box-1-b6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: -35px 0px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-2-b6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-3-b6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-4-b6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-5-b6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.active-b6 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid rgb(121, 121, 219);
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(158, 158, 248);
+  text-align: center;
+  font-family: morpheus;
+}
+.box-1-b7 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: -35px 0px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-2-b7 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-3-b7 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-4-b7 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-5-b7 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-6-b7 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b7 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.active-b7 {
   width: 400px;
   height: 10px;
   background-color: black;
