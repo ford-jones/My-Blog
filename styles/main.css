@@ -1240,6 +1240,90 @@ body {
   text-align: center;
   font-family: morpheus;
 }
+.box-1-b6-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: -547px 0px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-2-b6-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-3-b6-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-4-b6-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-5-b6-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.box-7-b6-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid green;
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+  text-align: center;
+  font-family: morpheus;
+}
+.active-b6-p4 {
+  width: 400px;
+  height: 10px;
+  background-color: black;
+  margin: 20px 20px 20px 20px;
+  padding: 10px 15px 20px 15px;
+  border: 2px solid rgb(121, 121, 219);
+  border-radius: 20px;
+  box-shadow: 0 0 10px rgb(158, 158, 248);
+  text-align: center;
+  font-family: morpheus;
+}
 .box-1-b7 {
   width: 400px;
   height: 10px;
