@@ -1328,7 +1328,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: 15px 0px 20px 20px;
+  margin: -549px 0px 20px 23px;
   padding: 10px 15px 20px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -1340,7 +1340,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 23px;
   padding: 10px 15px 20px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -1352,7 +1352,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 23px;
   padding: 10px 15px 20px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -1364,7 +1364,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 23px;
   padding: 10px 15px 20px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -1376,7 +1376,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 23px;
   padding: 10px 15px 20px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -1388,7 +1388,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 23px;
   padding: 10px 15px 20px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -1400,7 +1400,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 23px;
   padding: 10px 15px 45px 15px;
   border: 2px solid green;
   border-radius: 20px;
@@ -1412,7 +1412,7 @@ body {
   width: 400px;
   height: 10px;
   background-color: black;
-  margin: 20px 20px 20px 20px;
+  margin: 20px 20px 20px 23px;
   padding: 10px 15px 45px 15px;
   border: 2px solid rgb(121, 121, 219);
   border-radius: 20px;
@@ -1774,6 +1774,34 @@ a:-webkit-any-link {
   width: 600px;
 }
 .awnser-22 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
+.em-int-q-2 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 170px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
+.em-int-q-3 {
+  color: rgb(162, 162, 255);
+  text-align: left;
+  margin: 110px 10px 10px 580px;
+  padding: 0px 150px 0px 0px;
+}
+.em-int-a-2 {
+  color: white;
+  text-align: left;
+  margin: 10px 0px 0px 580px;
+  padding: 10px 10px 10px 0px;
+  height: 0px;
+  width: 600px;
+}
+.em-int-a-3 {
   color: white;
   text-align: left;
   margin: 10px 0px 0px 580px;
